@@ -1,0 +1,8 @@
+# 排除node安装包
+*/node_modules
+
+#排除vscode配置文件
+.vscode
+
+#排除npm的缓存文件
+*/package-lock.json
