@@ -6,4 +6,5 @@
 
 - [event](./event/README.md)
 - [buffer](./buffer/README.md)
+- [stream](./stream/README.md)
 - [node-mysql](./node-mysql/README.md)
