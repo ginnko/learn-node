@@ -13,4 +13,6 @@
 - [文件系统](./fs/README.md)
 - [web模块](./web/README.md)
 - [node处理get/post请求](./get-post/README.md)
+- [RESTful API](./rest/README.md)
+- [进程](./process/README.md)
 - [node-mysql](./node-mysql/README.md)
